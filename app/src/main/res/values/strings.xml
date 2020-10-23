@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Warehouse Caller</string>
+
+    <string name="msg1">You will get an OTP to your entered number for registration</string>
+    <string name="sendOtp">Send OTP</string>
+    <string name="resend">Resend OTP</string>
+    <string name="digit">+91</string>
+    <string name="enterNo">Enter Mobile Number</string>
+    <string name="msg2">Enter the 4 Digits OTP sent in your Mobile number to verify it is you</string>
+
+    <string name="blank">@null</string>
+    <string name="blank1"> </string>
+    <string name="validate">Verify</string>
+    <string name="otpError">Invalid OTP. Please enter correct OTP</string>
+    <string name="editNo">Change Mobile Number</string>
+    <string name="ename">Employee Name</string>
+    <color name="secondary_text_color">#757575</color>
+
+    <string name="maintenance_msg">Sorry! We are looking into matter, this page will work again very soon</string>
+    <string name="try_again">Try Again</string>
+    <string name="offline_msg">Oops! seems like you are not connected to Internet. Turn on Internet to proceed.</string>
+
+    <string name="login">Welcome to Warehouse Caller !!</string>
+    <string name="okay">Okay</string>
+    <string name="default_time">00:00</string>
+    <string name="default_otp">0</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="pulling_data">Pulling Fresh Data !!</string>
+    <string name="call">Fresh Orders</string>
+    <string name="attempted">Already Attempted</string>
+
+    <string name="customer_name">Name</string>
+    <string name="lid">Loan Proposal ID</string>
+    <string name="SpouseName">Spouse Name</string>
+    <string name="Address">Address</string>
+    <string name="Village">Village</string>
+    <string name="District">District</string>
+    <string name="MobileNo">Mobile</string>
+    <string name="Model">Model</string>
+    <string name="SkuCode">SkuCode</string>
+    <string name="AlternateMobileNo">Alternate</string>
+    <string name="Submit">Submit</string>
+    <string name="start_calling">Start Calling</string>
+    <string name="call_recording">Call is Recording ..</string>
+    <string name="call_recorded">Call Recorded :) </string>
+
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="cancel">Cancel</string>
+
+    <string-array name="caller_option">
+        <item>Call Status</item>
+        <item>Connected</item>
+        <item>Not Connected</item>
+        <item>Canceled</item>
+    </string-array>
+
+
+</resources>
